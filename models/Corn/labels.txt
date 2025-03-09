@@ -1,0 +1,5 @@
+0 common_rust
+1 healthy
+2 northern_leaf_Blig
+3 not_valid
+4 cercospora_leaf_spot

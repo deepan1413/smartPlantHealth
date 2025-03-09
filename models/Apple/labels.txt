@@ -1,0 +1,5 @@
+0 scab
+1 black_rot
+2 cedar_rust
+3 healthy
+4 not_valid

@@ -1,0 +1,6 @@
+0 healthy
+1 leaf_curl
+2 leaf_spot
+3 whitefly
+4 yellowish
+5 not_valid
